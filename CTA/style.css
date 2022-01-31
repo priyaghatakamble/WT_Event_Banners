@@ -1,0 +1,47 @@
+.center{
+    box-sizing: border-box; 
+    height:100%;
+    width: 100%;
+    font-size: larger;
+  }
+  .container {   
+    padding-top: 5px;
+    padding-bottom:50px;
+    padding-left: 300px;
+    padding-right: 300px;
+    height: 50%;
+    
+}   
+input[type=text], input[type=file],select {   
+    width: 100%;   
+    margin: 8px 0;  
+    padding: 12px 20px;   
+    display: inline-block;   
+    border: 2px solid rgb(92, 158, 92);   
+    box-sizing: border-box;   
+}  
+button {   
+    background-color: #4CAF50;   
+    width: 100%;  
+     color: orange;   
+     padding: 15px;   
+     margin: 10px 0px;   
+     border: none;   
+     cursor: pointer;   
+      }   
+form {   
+     border: 3px solid #f1f1f1; 
+        padding:50px;
+        font-family: Calibri, Helvetica, sans-serif; 
+        font-size: larger;
+    }  
+ .bg {  
+    font-family: Calibri, Helvetica, sans-serif;  
+    background-color: lightblue;  
+    padding-top: 150px;
+  }  
+  .back{
+    width: auto;   
+    padding: 10px 18px;  
+    margin: 10px 5px; 
+  }
